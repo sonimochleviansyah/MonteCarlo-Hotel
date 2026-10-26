@@ -1,4 +1,4 @@
-# 🏨 Data-Driven Monte Carlo Simulation: Hotel Booking Cancellation Risk
+#  Data-Driven Monte Carlo Simulation: Hotel Booking Cancellation Risk
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.30+-FF4B4B.svg)
@@ -10,7 +10,7 @@ Projek ini disusun untuk memenuhi **Tugas Akhir 03 (TA-03)** pada mata kuliah **
 
 ---
 
-## 📌 Identitas Mahasiswa
+##  Identitas Mahasiswa
 * **Nama:** Soni Moch Leviansyah
 * **NIM:** 301240030
 * **Program Studi:** Teknik Informatika
@@ -19,13 +19,13 @@ Projek ini disusun untuk memenuhi **Tugas Akhir 03 (TA-03)** pada mata kuliah **
 
 ---
 
-## 🚀 Live Demo & Repository
+##  Live Demo & Repository
 * **Web App Streamlit Live:** [https://hotel-montecarlo.streamlit.app](https://hotel-montecarlo.streamlit.app)
 * **GitHub Repository:** [https://github.com/sonimochleviansyah/MonteCarlo-Hotel](https://github.com/sonimochleviansyah/MonteCarlo-Hotel)
 
 ---
 
-## 📊 Gambaran Studi Kasus & Dataset
+##  Gambaran Studi Kasus & Dataset
 
 Dataset yang digunakan berasal dari Kaggle: **[Hotel Booking Demand Dataset](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)** oleh Jesse Mostipak.
 
@@ -42,7 +42,7 @@ Dataset yang digunakan berasal dari Kaggle: **[Hotel Booking Demand Dataset](htt
 
 ---
 
-## 💡 Hasil Analisis Risiko (Risk Assessment)
+##  Hasil Analisis Risiko (Risk Assessment)
 
 Berdasarkan simulasi sebanyak **5.000 iterasi**:
 * **Rata-rata Estimasi Kerugian:** Berkisar pada rentang **$\$3.800 – \$4.000$**.
@@ -52,7 +52,7 @@ Berdasarkan simulasi sebanyak **5.000 iterasi**:
 
 ---
 
-## 📂 Struktur Repositori
+##  Struktur Repositori
 
 ```text
 MonteCarlo-Hotel/
